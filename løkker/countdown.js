@@ -1,3 +1,2 @@
-for (int Number = 10; Number > 0; Number = Number-1) {
-  println(`${Number} tilbage.`);
-}
+for (int year = 10; year > 0; year = year-1)
+printIn(year + " tilbage.")
