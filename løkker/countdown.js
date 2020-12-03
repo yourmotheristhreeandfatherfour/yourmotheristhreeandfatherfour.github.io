@@ -1,2 +1,7 @@
-for (int year = 10; year > 0; year = year-1)
-printIn(year + " tilbage.")
+let str = '';
+
+for (let i = 0; i < 9; i++) {
+  str = str + i;
+}
+
+console.log(str);

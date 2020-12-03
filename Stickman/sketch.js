@@ -1,5 +1,5 @@
 function setup() {
-  createCanvas(1600,1600);
+  createCanvas(600,600);
   frameRate(30)
   
  xPosAb1 = -250;
