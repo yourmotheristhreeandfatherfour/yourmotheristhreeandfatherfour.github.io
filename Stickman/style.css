@@ -5,3 +5,24 @@ html, body {
 canvas {
   display: block;
 }
+
+.sketch {
+  position: absolute;
+  display: flex;
+  justify-content: top;
+}
+
+#footer {
+  position: absolute;
+  bottom: 0;
+
+}
+
+#footer a {
+  color: red;
+  text-decoration: none;
+}
+
+#footer a:hover {
+  text-decoration: underline;
+}
